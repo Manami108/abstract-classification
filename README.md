@@ -38,3 +38,4 @@ I experimented with:
 ---
 
 *Note: As this is my first ML project, there may be some technical limitations. I appreciate your understanding.*
+*For more details, please refer to the full report.*
