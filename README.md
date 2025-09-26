@@ -1,5 +1,6 @@
 # Abstract Classification with BERT
 
+This work was done in January, 2023.
 This is my first machine learning project (although i published to github really late), where I built an abstract classification system using NLP techniques. The goal is to classify scientific paper abstracts into one of three fields: **Physics**, **Mathematics**, or **Cybersecurity**. I implemented and fine-tuned a BERT model and compared its performance against traditional machine learning classifiers.
 
 ## Project Overview
